@@ -4,6 +4,11 @@ This is a backend developer interview challenge focused on building a sync-enabl
 
 ## 📚 Documentation Overview
 
+## To watch full Video Click the Below Link:
+#Part1:https://youtu.be/HtWgoz5A_94?si=hvMyZbGhoWBGmMBo
+#Part2:https://youtu.be/4XFdTrTfOp8?si=c-K52AY5az9rhL-V
+
+
 Please read these documents in order:
 
 1. **[📋 Submission Instructions](./docs/SUBMISSION_INSTRUCTIONS.md)** - How to submit your solution (MUST READ)
