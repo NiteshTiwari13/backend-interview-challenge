@@ -41,6 +41,8 @@ src/main/java/com/example/taskapi/
 - **Lombok** (boilerplate reduction)
 - **Maven** (build tool)
 - **Postman** (API testing)
+- **Chatgpt** (where we need)
+- **Chrome** (When we need)
 
 ---
 
@@ -93,7 +95,7 @@ Verify conflict resolution by updating the same task on client & server.
 ## To watch full Video Click the Below Link:
 
 #Description: Due to internet and Wi-Fi connectivity issues, I had to record the project demo video in two parts.
-Also, I could not include face recording because of an old camera.
+Also, I could not include face recording because of an technical issue.
 
 However, I want to assure you that I have put in my 100% effort while implementing this project.
 If given the opportunity, I am confident that I will further enhance my skills and contribute effectively to the growth of the organization.
