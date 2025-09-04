@@ -1,4 +1,4 @@
-# Task Sync API - Java Backend Implementation  .... Use Java  + Advance Java
+ # Task Sync API - Java Backend Implementation  .... Use Java  + Advance Java
 
 This project is a **Java (Spring Boot) based backend API** for managing tasks with **offline-first synchronization support**.  
 It provides CRUD operations, sync handling, and conflict resolution for a Task Management System.
@@ -91,6 +91,13 @@ Verify conflict resolution by updating the same task on client & server.
 
 
 ## To watch full Video Click the Below Link:
-#Part1:https://youtu.be/HtWgoz5A_94?si=hvMyZbGhoWBGmMBo
-#Part2:https://youtu.be/4XFdTrTfOp8?si=c-K52AY5az9rhL-V
+
+#Description: Due to internet and Wi-Fi connectivity issues, I had to record the project demo video in two parts.
+Also, I could not include face recording because of an old camera.
+
+However, I want to assure you that I have put in my 100% effort while implementing this project.
+If given the opportunity, I am confident that I will further enhance my skills and contribute effectively to the growth of the organization.
+
+## Part1:https://youtu.be/HtWgoz5A_94?si=hvMyZbGhoWBGmMBo
+## Part2:https://youtu.be/4XFdTrTfOp8?si=c-K52AY5az9rhL-V
 
